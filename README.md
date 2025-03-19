@@ -11,6 +11,7 @@ Node.js (for running the script)
 
 ## How to Run
 Run the script using Node.js:
-node assessment.js
+
+*node assessment.js*
 
 Feel free to suggest improvements or report issues! 
